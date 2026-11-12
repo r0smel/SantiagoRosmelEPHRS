@@ -28,7 +28,8 @@ class Program
 
         while (running)
         {
-            Console.WriteLine("=== EMPLOYEE PAYROLL SYSTEM - MAIN BRANCH ===");
+
+            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===");
             Console.WriteLine("1. Create Employee");
             Console.WriteLine("2. Read Employees");
             Console.WriteLine("3. Search Employee");

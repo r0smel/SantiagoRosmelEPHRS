@@ -1,0 +1,14 @@
+C:\Users\rosmel\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.exe
+C:\Users\rosmel\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.deps.json
+C:\Users\rosmel\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.runtimeconfig.json
+C:\Users\rosmel\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.dll
+C:\Users\rosmel\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.pdb
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.AssemblyInfo.cs
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.dll
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\refint\EmployeePayroll.dll
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.pdb
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.genruntimeconfig.cache
+C:\Users\rosmel\EmployeePayroll\obj\Debug\net10.0\ref\EmployeePayroll.dll
